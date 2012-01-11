@@ -1,4 +1,7 @@
-= Merb.vim
+= datamapper.vim
+
+Converting this to a datamapper-only plugin (originally a mixture of merb,
+datamapper, haml, etc...).  See below.
 
 == Informations
 
